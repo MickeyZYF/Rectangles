@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2018.2.6\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "E:\Projects\Smoking Gun Interactive Evaluation"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Projects/Smoking Gun Interactive Evaluation/cmake-build-debug

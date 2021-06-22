@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Projects/Smoking Gun Interactive Evaluation/Point2D.h
+
+E:/Projects/Smoking Gun Interactive Evaluation/Rectangle2D.cpp
+iostream
+-
+string
+-
+vector
+-
+Point2D.h
+E:/Projects/Smoking Gun Interactive Evaluation/Point2D.h
+Rectangle2D.h
+E:/Projects/Smoking Gun Interactive Evaluation/Rectangle2D.h
+
+E:/Projects/Smoking Gun Interactive Evaluation/Rectangle2D.h
+Point2D.h
+E:/Projects/Smoking Gun Interactive Evaluation/Point2D.h
+
